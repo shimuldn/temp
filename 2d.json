@@ -236,8 +236,7 @@
   "provinces": [
     [
       {
-        "en_name": "Hubei",
-        "zh_name": "湖北"
+        "en_name": "Hubei"
       },
       58182,
       1696,
@@ -245,8 +244,7 @@
     ],
     [
       {
-        "en_name": "Guangdong",
-        "zh_name": "广东"
+        "en_name": "Guangdong"
       },
       1322,
       4,
@@ -254,8 +252,7 @@
     ],
     [
       {
-        "en_name": "Henan",
-        "zh_name": "河南"
+        "en_name": "Henan"
       },
       1246,
       16,
@@ -263,8 +260,7 @@
     ],
     [
       {
-        "en_name": "Zhejiang",
-        "zh_name": "浙江"
+        "en_name": "Zhejiang"
       },
       1171,
       0,
@@ -272,8 +268,7 @@
     ],
     [
       {
-        "en_name": "Hunan",
-        "zh_name": "湖南"
+        "en_name": "Hunan"
       },
       1006,
       3,
@@ -281,8 +276,7 @@
     ],
     [
       {
-        "en_name": "Anhui",
-        "zh_name": "安徽"
+        "en_name": "Anhui"
       },
       973,
       6,
@@ -290,8 +284,7 @@
     ],
     [
       {
-        "en_name": "Jiangxi",
-        "zh_name": "江西"
+        "en_name": "Jiangxi"
       },
       930,
       1,
@@ -299,8 +292,7 @@
     ],
     [
       {
-        "en_name": "Jiangsu",
-        "zh_name": "江苏"
+        "en_name": "Jiangsu"
       },
       626,
       0,
@@ -308,8 +300,7 @@
     ],
     [
       {
-        "en_name": "Chongqing",
-        "zh_name": "重庆"
+        "en_name": "Chongqing"
       },
       552,
       5,
@@ -317,8 +308,7 @@
     ],
     [
       {
-        "en_name": "Shandong",
-        "zh_name": "山东"
+        "en_name": "Shandong"
       },
       541,
       2,
@@ -326,8 +316,7 @@
     ],
     [
       {
-        "en_name": "Sichuan",
-        "zh_name": "四川"
+        "en_name": "Sichuan"
       },
       495,
       3,
@@ -335,8 +324,7 @@
     ],
     [
       {
-        "en_name": "Heilongjiang",
-        "zh_name": "黑龙江"
+        "en_name": "Heilongjiang"
       },
       457,
       11,
@@ -344,8 +332,7 @@
     ],
     [
       {
-        "en_name": "Beijing",
-        "zh_name": "北京"
+        "en_name": "Beijing"
       },
       381,
       4,
@@ -353,8 +340,7 @@
     ],
     [
       {
-        "en_name": "Shanghai",
-        "zh_name": "上海"
+        "en_name": "Shanghai"
       },
       332,
       1,
@@ -362,8 +348,7 @@
     ],
     [
       {
-        "en_name": "Hebei",
-        "zh_name": "河北"
+        "en_name": "Hebei"
       },
       301,
       3,
@@ -371,8 +356,7 @@
     ],
     [
       {
-        "en_name": "Fujian",
-        "zh_name": "福建"
+        "en_name": "Fujian"
       },
       290,
       0,
@@ -380,8 +364,7 @@
     ],
     [
       {
-        "en_name": "Shanxi",
-        "zh_name": "陕西"
+        "en_name": "Shanxi"
       },
       240,
       0,
@@ -389,8 +372,7 @@
     ],
     [
       {
-        "en_name": "Guangxi",
-        "zh_name": "广西"
+        "en_name": "Guangxi"
       },
       238,
       2,
@@ -398,8 +380,7 @@
     ],
     [
       {
-        "en_name": "Yunnan",
-        "zh_name": "云南"
+        "en_name": "Yunnan"
       },
       171,
       0,
@@ -407,8 +388,7 @@
     ],
     [
       {
-        "en_name": "Hainan",
-        "zh_name": "海南"
+        "en_name": "Hainan"
       },
       163,
       4,
@@ -416,8 +396,7 @@
     ],
     [
       {
-        "en_name": "Guizhou",
-        "zh_name": "贵州"
+        "en_name": "Guizhou"
       },
       146,
       1,
@@ -425,8 +404,7 @@
     ],
     [
       {
-        "en_name": "Shanxi",
-        "zh_name": "山西"
+        "en_name": "Shanxi"
       },
       129,
       0,
@@ -434,8 +412,7 @@
     ],
     [
       {
-        "en_name": "Tianjin",
-        "zh_name": "天津"
+        "en_name": "Tianjin"
       },
       125,
       3,
@@ -443,8 +420,7 @@
     ],
     [
       {
-        "en_name": "Liaoning",
-        "zh_name": "辽宁"
+        "en_name": "Liaoning"
       },
       121,
       1,
@@ -452,8 +428,7 @@
     ],
     [
       {
-        "en_name": "Gansu",
-        "zh_name": "甘肃"
+        "en_name": "Gansu"
       },
       91,
       2,
@@ -461,8 +436,7 @@
     ],
     [
       {
-        "en_name": "Jilin",
-        "zh_name": "吉林"
+        "en_name": "Jilin"
       },
       89,
       1,
@@ -470,8 +444,7 @@
     ],
     [
       {
-        "en_name": "Xinjiang",
-        "zh_name": "新疆"
+        "en_name": "Xinjiang"
       },
       75,
       1,
@@ -479,8 +452,7 @@
     ],
     [
       {
-        "en_name": "Namenggu",
-        "zh_name": "内蒙古"
+        "en_name": "Namenggu"
       },
       72,
       0,
@@ -488,8 +460,7 @@
     ],
     [
       {
-        "en_name": "Ningxia",
-        "zh_name": "宁夏"
+        "en_name": "Ningxia"
       },
       70,
       0,
