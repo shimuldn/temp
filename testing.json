@@ -5,10 +5,14 @@
     "first": "Johnny",
     "last": "B."
   },
-  "is_student": false,
-  "Country": {
-    "Name": {
-      "City": "Nothing"
-    }
+  "data": [
+    "name",
+    "Test Name"
+  ],
+  "tata": {
+    "name": [
+      "ok",
+      "Hello, Ok"
+    ]
   }
 }
