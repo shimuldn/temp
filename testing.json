@@ -1,0 +1,14 @@
+{
+  "planet": "Earth",
+  "city.name": "anytown",
+  "name": {
+    "first": "Johnny",
+    "last": "B."
+  },
+  "is_student": false,
+  "Country": {
+    "Name": {
+      "City": "Nothing"
+    }
+  }
+}
